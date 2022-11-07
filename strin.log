@@ -1,0 +1,44 @@
+INFO :root : 2022-11-07 12:05:20,175 : this is class   for defining object's method
+INFO :root : 2022-11-07 12:08:27,344 : this is class   for defining object's method
+INFO :root : 2022-11-07 12:08:27,344 : this is the method for extracting string with  step size == 3 
+INFO :root : 2022-11-07 12:08:27,344 : this is main function method
+ERROR :root : 2022-11-07 12:08:27,344 : 'Str_task1' object has no attribute 'string'
+Traceback (most recent call last):
+  File "D:\Ineuron_FSDS\Oops_task\task_1_oops_String.py", line 32, in step_3_String
+    logging.debug("result of the function is:" + self.string[::3])
+AttributeError: 'Str_task1' object has no attribute 'string'
+INFO :root : 2022-11-07 12:10:55,091 : The string Constructor is called --------
+INFO :root : 2022-11-07 12:10:55,091 : enter into the three jummping
+INFO :root : 2022-11-07 12:10:55,092 : the jumpping of 3 steps -->: tsse
+INFO :root : 2022-11-07 12:17:26,237 : The string Constructor is called --------
+INFO :root : 2022-11-07 12:17:26,237 : enter into the three jummping
+INFO :root : 2022-11-07 12:17:26,237 : the step size 3-->: tsse
+INFO :root : 2022-11-07 12:17:26,237 : this is the class for creating blue print of boject function or method
+INFO :root : 2022-11-07 12:17:26,237 : this is method for class objec
+INFO :root : 2022-11-07 12:17:26,237 : this is the action function to run the code
+INFO :root : 2022-11-07 12:17:26,243 : tssyaowtgo
+INFO :root : 2022-11-07 12:17:26,243 : this is method for class objec
+INFO :root : 2022-11-07 12:17:26,243 : this is the action function to run the code
+INFO :root : 2022-11-07 12:17:43,739 : this is the class for creating blue print of boject function or method
+INFO :root : 2022-11-07 12:17:43,739 : this is method for class objec
+INFO :root : 2022-11-07 12:17:43,739 : this is the action function to run the code
+INFO :root : 2022-11-07 12:17:43,744 : tssyaowtgo
+INFO :root : 2022-11-07 12:17:43,744 : this is method for class objec
+INFO :root : 2022-11-07 12:17:43,744 : this is the action function to run the code
+INFO :root : 2022-11-07 12:29:14,592 : The string Constructor is called --------
+INFO :root : 2022-11-07 12:29:14,592 : enter into the three jummping
+INFO :root : 2022-11-07 12:29:14,592 : the step size 3-->: tsse
+INFO :root : 2022-11-07 12:43:03,004 : The string Constructor is called --------
+INFO :root : 2022-11-07 12:43:03,005 : enter into the three jummping
+INFO :root : 2022-11-07 12:43:03,005 : the step size 3-->: tsse
+INFO :root : 2022-11-07 16:55:09,628 : The string Constructor is called --------
+INFO :root : 2022-11-07 16:55:09,628 : enter into the three jummping
+INFO :root : 2022-11-07 16:55:09,628 : the step size 3-->: tsse
+INFO :root : 2022-11-07 16:58:23,851 : The string Constructor is called --------
+INFO :root : 2022-11-07 16:58:23,852 : This function tells you the center function
+INFO :root : 2022-11-07 16:58:23,852 :  
+INFO :root : 2022-11-07 16:58:23,852 : : this is python class
+INFO :root : 2022-11-07 16:58:40,795 : The string Constructor is called --------
+INFO :root : 2022-11-07 16:58:40,796 : This function tells you the center function
+INFO :root : 2022-11-07 16:58:40,796 :  
+INFO :root : 2022-11-07 16:58:40,796 : : ****************************************this is python class****************************************
